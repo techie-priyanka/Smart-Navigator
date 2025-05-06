@@ -1,1 +1,1 @@
-# Smart-Navigator
+The Smart Navigator is an AI-powered smart city travel assistant that optimizes navigation using graph algorithms like Dijkstra’s Algorithm and A*. It efficiently maps road networks using adjacency lists, priority queues, and disjoint sets, ensuring faster and cost-effective route planning. Designed for smart cities, it dynamically adapts to traffic and infrastructure changes, improving urban mobility. Whether for commuters or city planners, this system enhances navigation strategies for smoother travel, making cities smarter and more connected.
